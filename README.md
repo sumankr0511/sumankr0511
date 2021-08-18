@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently I'm student at NIET Gr. Noida.
-- 🌱 I’m currently learning PHP,Bootstrap,JavaScript,MySql.
+- 🌱 I’m currently learning Bootstrap,JavaScript, PHP,MySql.
 - 👯 I’m looking to collaborate on web Development.
 - 🤔 I’m looking for help with PHP development.
 - 😄 Pronouns: He/His.
