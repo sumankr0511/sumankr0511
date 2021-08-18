@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP,Bootstrap,JavaScript,MySql.
 - 👯 I’m looking to collaborate on web Development.
 - 🤔 I’m looking for help with PHP development.
-- 💬 Ask me about 
-- 📫 How to reach me: sumanankan4@gmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm half Finnish. 
 <p align="center">
